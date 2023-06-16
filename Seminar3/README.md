@@ -1,14 +1,17 @@
-## The project contains functionality for interact with user.
+## The project contains functionality for save user data to the file.
 
 ### An application that will prompt the user for the following data, separated by a space:
 <Surname> <Name> <Patronymic> <Date of birth> <Phone number> <Gender>
+
 ### Data formats:
 - surname, name, patronymic - strings
 - date of birth - format string dd.mm.yyyy
 - phone number - unsigned integer without formatting
 - gender - Latin character f or m.
+
 ### Example data: 
 - Ivanov Ivan Ivanovich 06.08.1988 79881234567 m
+
 ### Data for testing App:
 - Ivanov Petr Petrovich 09.09.1999 89123456789 m
 - Kovolenko Karina Vladimirovna 08.12.1967 89645558868 f
